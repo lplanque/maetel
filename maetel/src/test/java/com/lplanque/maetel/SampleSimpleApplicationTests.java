@@ -32,7 +32,7 @@ import static org.junit.Assert.assertTrue;
  * @author Dave Syer
  * @author Phillip Webb
  */
-public class SampleSimpleApplicationTests {
+public class SampleSimpleApplicationTests { // TODO
 
 	@Rule
 	public OutputCapture outputCapture = new OutputCapture();
