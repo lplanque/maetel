@@ -27,7 +27,7 @@ import com.lplanque.maetel.Maetel;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Tests for {@link Maetel}.
+ * Tests for {@link _Maetel}.
  * 
  * @author Dave Syer
  * @author Phillip Webb

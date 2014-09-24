@@ -24,7 +24,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import com.lplanque.maetel.Maetel;
 
 /**
- * Tests for {@link Maetel}.
+ * Tests for {@link _Maetel}.
  * 
  * @author Dave Syer
  */
